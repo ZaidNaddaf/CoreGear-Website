@@ -1,0 +1,76 @@
+# CoreGear UI/UX Design Workflow – Version Control Log
+
+Project Name: CoreGear – Fitness E-Commerce Platform  
+Student: [Your Name]  
+Course: BTEC Unit 41 – Advanced Digital Design  
+Tool: Figma (UI/UX Design), GitHub (Version Management)
+
+---
+
+## 🔷 Workflow Summary
+
+This document outlines the major development steps and design iterations completed during the CoreGear e-commerce website project. It includes planning, wireframing, prototyping, testing, and localization work.
+
+---
+
+## 📅 Timeline and Milestones
+
+🔹 **Week 1 – Research & Planning**
+- Created initial sitemap using Canva Whiteboard
+- Researched competitor websites (Rogue Fitness, Titan Fitness, Delta Jordan)
+- Identified user types: Beginners and Professionals
+- Outlined key user needs from the brief
+
+🔹 **Week 2 – Wireframing**
+- Created low-fidelity wireframes in Figma for:
+  - Homepage
+  - Product listing
+  - Product detail page
+  - Checkout
+  - Blog, Contact, and Error pages
+
+🔹 **Week 3 – Prototyping (English Version)**
+- Developed interactive English version with:
+  - Realistic navigation and filter dropdowns
+  - Category pages with cards and data-simulated product grids
+  - Working cart and form field layouts
+
+🔹 **Week 4 – Personalization Features**
+- Designed a UX path that splits based on fitness level (Beginner vs Pro)
+- Created custom product detail pages with adapted information depth
+
+🔹 **Week 5 – Multilingual Support**
+- Converted English UI into Arabic layout
+- Adjusted for RTL alignment, fonts, and mirrored interfaces
+- Created mobile responsive versions for both languages
+
+🔹 **Week 6 – Refinements and Testing**
+- Updated mobile UI (sticky nav, optimized filters)
+- Adjusted layout spacing and CTA clarity
+- Prepared Figma prototype for user testing
+
+---
+
+## 🧩 Key Components Designed
+
+- ✅ Desktop homepage with hero, shop preview, and blog
+- ✅ Product filters and responsive category pages
+- ✅ Dynamic product detail views
+- ✅ Account, login, and registration pages
+- ✅ Shopping cart and payment form
+- ✅ 404 and Thank You screens
+- ✅ Arabic RTL mobile prototype
+
+---
+
+## ✅ Accomplished
+
+- 4 UI versions: English (Guest + Logged In) & Arabic (Guest + Logged In)
+- Full prototype designed in Figma with click-through interactions
+- Versioned design iterations labeled and saved in separate pages
+- GitHub repo created to track file history and major project stages
+- Ready for user testing and evaluation
+
+---
+
+# End of File
